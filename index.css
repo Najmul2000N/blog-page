@@ -87,7 +87,7 @@ li {
 .hero-img {
   height: 100%;
   width: 50%;
-  background-image: url("assets/1st.jpg");
+  background-image: url("1st.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -97,7 +97,7 @@ li {
 .second-content {
   height: 400px;
   width: 100%;
-  background-image: url("assets/mid.jpg");
+  background-image: url("mid.jpg");
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -172,7 +172,7 @@ li {
 .card-img {
   height: 50%;
   width: 100%;
-  background-image: url("assets/man\ &\ girl.jpg");
+  background-image: url("man\ &\ girl.jpg");
   background-size: cover;
   background-position: center center;
 }
@@ -238,7 +238,7 @@ li {
 .footer {
   height: 400px;
   width: 100%;
-  background-image: url("assets/last.jpg");
+  background-image: url("last.jpg");
   background-position: center center;
   background-repeat: no-repeat;
 }
